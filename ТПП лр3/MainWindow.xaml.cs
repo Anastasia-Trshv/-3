@@ -17,6 +17,7 @@ using static System.Net.Mime.MediaTypeNames;
 namespace ТПП_лр2
 {
 
+
     public partial class MainWindow : Window
     {
         float a, b;
