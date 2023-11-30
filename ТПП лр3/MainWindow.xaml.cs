@@ -228,6 +228,7 @@ namespace ТПП_лр2
         }
 
 
+
        
 
         private void CheckBox_unChecked (object sender, RoutedEventArgs e)
